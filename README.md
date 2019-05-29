@@ -1,5 +1,5 @@
-# Предложение за проект на Владимир Михов ФН 61941
+# Проект на Владимир Михов ФН 61941
 
-Идеята ми е използване на Simulated annealing за решаване на Knapsack проблема.
+## Използване на Simulated annealing за решаване на обобщеният Knapsack проблем(с няколко раници).
 
-Тестовите данни ще намеря от [тук](http://people.sc.fsu.edu/~jburkardt%20/datasets/knapsack_01/knapsack_01.html).
+[Тестови данни](http://people.sc.fsu.edu/~jburkardt%20/datasets/generalized_assignment/generalized_assignment.html).
